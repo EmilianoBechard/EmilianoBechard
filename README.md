@@ -1,4 +1,4 @@
-# Hey, soy Emiliano 👋
+# Hola, soy Emiliano 👋
 
 **Fullstack Developer** · React · Next.js · Node.js · React Native · Supabase
 
@@ -21,6 +21,7 @@ Fundador de **[Bechard Studio](https://bechard-studio.com)** — desarrollo web 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
