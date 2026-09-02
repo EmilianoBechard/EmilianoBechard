@@ -34,9 +34,9 @@ Fundador de **[Bechard Studio](https://bechard-studio.com)** — desarrollo web 
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [Bechard Studio](https://bechard-studio.com) | Sitio de mi estudio de desarrollo web | Next.js, Tailwind CSS |
-| `changuito-app` | SaaS de delivery-commerce para kioscos y almacenes | Next.js, Supabase, PostgreSQL |
-| `bechard-crm` | CRM SaaS para freelancers y agencias | Next.js, Supabase, TanStack Query |
+| [Bechard Studio](https://bechard-studio.com) | Sitio de mi estudio de desarrollo web | Next.js |
+| `changuito-app` | SaaS de delivery-commerce para kioscos y almacenes | Next.js, Supabase, Vercel |
+| `bechard-crm` | CRM SaaS para freelancers y agencias | Next.js, Supabase, Vercel |
 
 ---
 
