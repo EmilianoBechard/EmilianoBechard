@@ -13,8 +13,8 @@ Busco incorporarme a un equipo en relación de dependencia, full time y remoto.
 **Desarrollador Full Stack — Bechard Studio** · Proyectos propios de software · Marzo 2026 – Actualidad
 
 - **[Bechard CRM](https://crm.bechard-studio.com):** sistema propio de gestión de clientes sobre Supabase.
-- **Gestión para kioscos y comercios:** aplicación con venta por delivery.
-- **Gestión hotelera (en curso):** Next.js, NestJS, Prisma, PostgreSQL, Redis y BullMQ; autenticación JWT con 2FA y pagos con Mercado Pago.
+- **[Gestión para kioscos y comercios](https://app.bechard-studio.com):** aplicación con venta por delivery.
+- **[Gestión hotelera](https://roomsync.bechard-studio.com) (en curso):** Next.js, NestJS, Prisma, PostgreSQL, Redis y BullMQ; autenticación JWT con 2FA y pagos con Mercado Pago.
 
 **Desarrollador Full Stack — Whapy** · Octubre 2025 – Marzo 2026
 
